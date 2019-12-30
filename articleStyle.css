@@ -1,0 +1,32 @@
+body {
+    /* margin:50px, 50px, 50px, 50px; */
+    margin-left: 500px;
+    width: 800px;
+    border: 20px lightgray solid;
+    padding: 20px;
+    background-color: lightyellow;
+    /* height: 500px; */
+}
+
+h2 {
+    font-family: 'Viga', sans-serif;
+    margin-left: 25px;
+}
+
+.date {
+    letter-spacing: .2rem;
+    color:#0099ff;
+    font-family: 'Merriweather Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+.leftBorder {
+    border-left: lightgray solid 5px;
+    padding-left: 5px;
+    font-family: 'Alice', serif;
+}
+
+p {
+    font-family: 'Alice', serif;
+    padding-left: 5px;
+}
